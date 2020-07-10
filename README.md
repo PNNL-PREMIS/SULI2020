@@ -13,3 +13,6 @@ Here is the link to Max's repo: https://github.com/MaxFrissell/SoilRespirationPa
 
 Max's project involves investigating factors that can be used to predict the amount of soil respiration that comes from plant roots versus from soil microorganisms using machine learning.
 
+Here is the link to Colin's repo: https://github.com/10aDing/daynight-Q10
+
+Colin's project involves investigating differences/trends in Day/Night temperature sensitivites (Q10) using continuous soil respiration data contained within the COSORE database.
